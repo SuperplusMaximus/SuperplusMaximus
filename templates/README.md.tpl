@@ -1,5 +1,5 @@
 
-![header](images/header.gif)
+![header](assets/header.gif)
 ### Hi there 👋
 
 #### 👷 Check out what I'm currently working on
