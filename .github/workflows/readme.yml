@@ -4,6 +4,8 @@ on:
   push:
   schedule:
     - cron: "0 0 * * 0"
+permissions:
+  contents: write
 
 jobs:
   markscribe:
@@ -21,6 +23,7 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Push
         run: |
