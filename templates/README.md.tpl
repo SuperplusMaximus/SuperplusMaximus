@@ -23,7 +23,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://medium.com/feed/@etube/" 10}}
+{{range rss "https://medium.com/feed/@superplusmaximus/" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
