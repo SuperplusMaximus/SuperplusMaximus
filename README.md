@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (2 weeks ago)
+- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (3 weeks ago)
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (4 weeks ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
