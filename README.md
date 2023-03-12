@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Jardin collectif](https://medium.com/@superplusmaximus/jardin-collectif-c4e295f479f?source=rss-21b0e99aaed5------2) (5 years ago)
+- [Jardin collectif](https://medium.com/@superplusmaximus/jardin-collectif-c4e295f479f?source=rss-21b0e99aaed5------2) (6 years ago)
 - [Changement de vision et d’(objectif)](https://medium.com/@superplusmaximus/changement-de-vision-et-d-objectif-fcbc2f671c08?source=rss-21b0e99aaed5------2) (6 years ago)
 - [Liste d’idées](https://medium.com/@superplusmaximus/liste-did%C3%A9es-eb7db53861e9?source=rss-21b0e99aaed5------2) (6 years ago)
 - [Une lampe futuriste](https://medium.com/@superplusmaximus/une-lampe-futuriste-5ce1f4244e4c?source=rss-21b0e99aaed5------2) (6 years ago)
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 month ago)
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨ (1 month ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
