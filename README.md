@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨ (1 month ago)
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨ (2 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
