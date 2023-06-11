@@ -9,6 +9,7 @@
 
 #### 🌱 My latest projects
 
+- [SuperplusMaximus/context-next-test](https://github.com/SuperplusMaximus/context-next-test) - 
 - [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) - 
 - [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template
 - [SuperplusMaximus/os-x-setup](https://github.com/SuperplusMaximus/os-x-setup) - Mac OS commands lines setup
@@ -38,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (5 days ago)
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (4 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 year ago)
 
