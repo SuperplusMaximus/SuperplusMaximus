@@ -40,7 +40,7 @@
 #### ⭐ Recent Stars
 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (1 month ago)
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (5 months ago)
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (6 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
