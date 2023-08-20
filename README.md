@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (4 months ago)
-- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (6 months ago)
+- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,10 +39,10 @@
 
 #### ⭐ Recent Stars
 
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 weeks ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (2 months ago)
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (7 months ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 year ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
