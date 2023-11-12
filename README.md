@@ -31,7 +31,7 @@
 - [Améliorer / supporter l’apprentissage](https://medium.com/@superplusmaximus/am%C3%A9liorer-supporter-lapprentissage-8332fe8933a9?source=rss-21b0e99aaed5------2) (6 years ago)
 - [10/11 Et 5 derniers jours — the Knights](https://medium.com/@superplusmaximus/10-11-et-5-derniers-jours-the-knights-9820cd24884e?source=rss-21b0e99aaed5------2) (6 years ago)
 - [6/7…9ème semaines de stage — Repos(itionnement)](https://medium.com/@superplusmaximus/6-7-9%C3%A8me-semaines-de-stage-repos-itionnement-610393d03dd?source=rss-21b0e99aaed5------2) (6 years ago)
-- [4/5ème semaines de stage — Dev Day &amp; Burger](https://medium.com/@superplusmaximus/4-5%C3%A8me-semaines-de-stage-dev-day-burger-954e0f594f08?source=rss-21b0e99aaed5------2) (6 years ago)
+- [4/5ème semaines de stage — Dev Day &amp; Burger](https://medium.com/@superplusmaximus/4-5%C3%A8me-semaines-de-stage-dev-day-burger-954e0f594f08?source=rss-21b0e99aaed5------2) (7 years ago)
 - [2/3ème semaines de stage — Monde du commerce](https://medium.com/@superplusmaximus/2-3%C3%A8me-semaines-de-stage-monde-du-commerce-40b648faee52?source=rss-21b0e99aaed5------2) (7 years ago)
 
 #### 📓 Gists I wrote
@@ -41,7 +41,7 @@
 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (3 months ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (5 months ago)
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (9 months ago)
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (10 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
