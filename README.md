@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (3 months ago)
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (5 months ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (4 months ago)
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (6 months ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (10 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 years ago)
 
