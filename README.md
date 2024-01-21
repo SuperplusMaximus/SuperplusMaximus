@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (9 months ago)
-- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (11 months ago)
+- [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (10 months ago)
+- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 - [Liste d’idées](https://medium.com/@superplusmaximus/liste-did%C3%A9es-eb7db53861e9?source=rss-21b0e99aaed5------2) (6 years ago)
 - [Une lampe futuriste](https://medium.com/@superplusmaximus/une-lampe-futuriste-5ce1f4244e4c?source=rss-21b0e99aaed5------2) (6 years ago)
 - [Favoriser et adapter une ambiance](https://medium.com/@superplusmaximus/favoriser-et-adapter-une-ambiance-59d12ee8284?source=rss-21b0e99aaed5------2) (6 years ago)
-- [Améliorer / supporter l’apprentissage](https://medium.com/@superplusmaximus/am%C3%A9liorer-supporter-lapprentissage-8332fe8933a9?source=rss-21b0e99aaed5------2) (6 years ago)
+- [Améliorer / supporter l’apprentissage](https://medium.com/@superplusmaximus/am%C3%A9liorer-supporter-lapprentissage-8332fe8933a9?source=rss-21b0e99aaed5------2) (7 years ago)
 - [10/11 Et 5 derniers jours — the Knights](https://medium.com/@superplusmaximus/10-11-et-5-derniers-jours-the-knights-9820cd24884e?source=rss-21b0e99aaed5------2) (7 years ago)
 - [6/7…9ème semaines de stage — Repos(itionnement)](https://medium.com/@superplusmaximus/6-7-9%C3%A8me-semaines-de-stage-repos-itionnement-610393d03dd?source=rss-21b0e99aaed5------2) (7 years ago)
 - [4/5ème semaines de stage — Dev Day &amp; Burger](https://medium.com/@superplusmaximus/4-5%C3%A8me-semaines-de-stage-dev-day-burger-954e0f594f08?source=rss-21b0e99aaed5------2) (7 years ago)
