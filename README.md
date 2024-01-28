@@ -5,7 +5,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (10 months ago)
-- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template (1 year ago)
 
 #### 🌱 My latest projects
 
