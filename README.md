@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (10 months ago)
+- [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence (1 day ago)
+- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence (1 week ago)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (6 months ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (8 months ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (1 year ago)
