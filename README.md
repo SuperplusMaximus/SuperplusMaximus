@@ -38,8 +38,8 @@
 #### ⭐ Recent Stars
 
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more. (2 months ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (8 months ago)
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (10 months ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (9 months ago)
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (11 months ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (1 year ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 years ago)
 
