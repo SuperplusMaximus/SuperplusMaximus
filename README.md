@@ -48,6 +48,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [timserck](https://github.com/timserck)
 - [antonypaquay](https://github.com/antonypaquay)
