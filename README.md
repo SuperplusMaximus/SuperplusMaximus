@@ -48,11 +48,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [xxspell](https://github.com/xxspell)
 - [idimetrix](https://github.com/idimetrix)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [timserck](https://github.com/timserck)
-- [antonypaquay](https://github.com/antonypaquay)
 
 #### 📫 How to reach me
 
