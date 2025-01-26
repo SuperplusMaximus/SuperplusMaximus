@@ -25,7 +25,7 @@
 - [Changement de vision et d’(objectif)](https://medium.com/@superplusmaximus/changement-de-vision-et-d-objectif-fcbc2f671c08?source=rss-21b0e99aaed5------2) (7 years ago)
 - [Liste d’idées](https://medium.com/@superplusmaximus/liste-did%C3%A9es-eb7db53861e9?source=rss-21b0e99aaed5------2) (7 years ago)
 - [Une lampe futuriste](https://medium.com/@superplusmaximus/une-lampe-futuriste-5ce1f4244e4c?source=rss-21b0e99aaed5------2) (7 years ago)
-- [Favoriser et adapter une ambiance](https://medium.com/@superplusmaximus/favoriser-et-adapter-une-ambiance-59d12ee8284?source=rss-21b0e99aaed5------2) (7 years ago)
+- [Favoriser et adapter une ambiance](https://medium.com/@superplusmaximus/favoriser-et-adapter-une-ambiance-59d12ee8284?source=rss-21b0e99aaed5------2) (8 years ago)
 - [Améliorer / supporter l’apprentissage](https://medium.com/@superplusmaximus/am%C3%A9liorer-supporter-lapprentissage-8332fe8933a9?source=rss-21b0e99aaed5------2) (8 years ago)
 - [10/11 Et 5 derniers jours — the Knights](https://medium.com/@superplusmaximus/10-11-et-5-derniers-jours-the-knights-9820cd24884e?source=rss-21b0e99aaed5------2) (8 years ago)
 - [6/7…9ème semaines de stage — Repos(itionnement)](https://medium.com/@superplusmaximus/6-7-9%C3%A8me-semaines-de-stage-repos-itionnement-610393d03dd?source=rss-21b0e99aaed5------2) (8 years ago)
@@ -38,7 +38,7 @@
 #### ⭐ Recent Stars
 
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more. (11 months ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 year ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 years ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (2 years ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (2 years ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 years ago)
