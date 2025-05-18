@@ -49,10 +49,10 @@
 #### 👯 Check out some of my recent followers
 
 - [idimetrix](https://github.com/idimetrix)
-- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [timserck](https://github.com/timserck)
 - [antonypaquay](https://github.com/antonypaquay)
+- [jerem-archived](https://github.com/jerem-archived)
 
 #### 📫 How to reach me
 
