@@ -48,11 +48,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [idimetrix](https://github.com/idimetrix)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [timserck](https://github.com/timserck)
 - [antonypaquay](https://github.com/antonypaquay)
-- [jerem-archived](https://github.com/jerem-archived)
 
 #### 📫 How to reach me
 
