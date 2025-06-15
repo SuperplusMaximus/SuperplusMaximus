@@ -7,9 +7,6 @@
 
 #### 🌱 My latest projects
 
-- [SuperplusMaximus/context-next-test](https://github.com/SuperplusMaximus/context-next-test) - 
-- [SuperplusMaximus/draw.io](https://github.com/SuperplusMaximus/draw.io) - 
-- [SuperplusMaximus/phaser3-vite-typescript-template](https://github.com/SuperplusMaximus/phaser3-vite-typescript-template) - Phaser3 / vite &#43; typescript - template
 - [SuperplusMaximus/os-x-setup](https://github.com/SuperplusMaximus/os-x-setup) - Mac OS commands lines setup
 - [SuperplusMaximus/portfolio](https://github.com/SuperplusMaximus/portfolio) - 
 
