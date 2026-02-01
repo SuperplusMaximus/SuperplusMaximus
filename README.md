@@ -38,7 +38,7 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg (2 years ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined (2 years ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (3 years ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (3 years ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (4 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
