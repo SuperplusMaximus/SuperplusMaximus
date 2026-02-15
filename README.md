@@ -19,9 +19,9 @@
 #### 📜 My recent blog posts
 
 - [Jardin collectif](https://medium.com/@superplusmaximus/jardin-collectif-c4e295f479f?source=rss-21b0e99aaed5------2) (8 years ago)
-- [Changement de vision et d’(objectif)](https://medium.com/@superplusmaximus/changement-de-vision-et-d-objectif-fcbc2f671c08?source=rss-21b0e99aaed5------2) (8 years ago)
-- [Liste d’idées](https://medium.com/@superplusmaximus/liste-did%C3%A9es-eb7db53861e9?source=rss-21b0e99aaed5------2) (8 years ago)
-- [Une lampe futuriste](https://medium.com/@superplusmaximus/une-lampe-futuriste-5ce1f4244e4c?source=rss-21b0e99aaed5------2) (8 years ago)
+- [Changement de vision et d’(objectif)](https://medium.com/@superplusmaximus/changement-de-vision-et-d-objectif-fcbc2f671c08?source=rss-21b0e99aaed5------2) (9 years ago)
+- [Liste d’idées](https://medium.com/@superplusmaximus/liste-did%C3%A9es-eb7db53861e9?source=rss-21b0e99aaed5------2) (9 years ago)
+- [Une lampe futuriste](https://medium.com/@superplusmaximus/une-lampe-futuriste-5ce1f4244e4c?source=rss-21b0e99aaed5------2) (9 years ago)
 - [Favoriser et adapter une ambiance](https://medium.com/@superplusmaximus/favoriser-et-adapter-une-ambiance-59d12ee8284?source=rss-21b0e99aaed5------2) (9 years ago)
 - [Améliorer / supporter l’apprentissage](https://medium.com/@superplusmaximus/am%C3%A9liorer-supporter-lapprentissage-8332fe8933a9?source=rss-21b0e99aaed5------2) (9 years ago)
 - [10/11 Et 5 derniers jours — the Knights](https://medium.com/@superplusmaximus/10-11-et-5-derniers-jours-the-knights-9820cd24884e?source=rss-21b0e99aaed5------2) (9 years ago)
