@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [S4IL21](https://github.com/S4IL21)
 - [Carrington-dev](https://github.com/Carrington-dev)
 - [idimetrix](https://github.com/idimetrix)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [timserck](https://github.com/timserck)
-- [antonypaquay](https://github.com/antonypaquay)
 
 #### 📫 How to reach me
 
